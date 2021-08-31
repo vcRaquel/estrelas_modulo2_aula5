@@ -8,7 +8,8 @@ public class Exercicio2 {
         int contador = 1;
         int quantidadeDeNumeros;
         int soma =0;
-
+        float verificadorFlutuante;
+        int verificadorInteiro;
 
         System.out.println("Digite a quantidade de números inteiros: ");
         quantidadeDeNumeros = leitor.nextInt();
